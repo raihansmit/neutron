@@ -1,5 +1,7 @@
 Token Kibana = eyJ2ZXIiOiI4LjIuMiIsImFkciI6WyIxMC4xMjAuMS4xMTo5MjAwIl0sImZnciI6IjQ4YjA3ODRhOGVlYmYxOTk2M2NiYzUyMmE2OGZlNjcxOWU4NzQxOGVlZDFkMDMyNzM0YWE2NjcwZmY2YzIwNGQiLCJrZXkiOiJrTjFLUm9FQk1mclY4bHRZVW5sczpQbE05bXdzeVFkeVJqeGVUT1R3dThRIn0=
 
+test
+
 Password ELK Stack Server = admin02
 
 username = elastic
