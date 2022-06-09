@@ -6,3 +6,5 @@ Password ELK Stack Server = admin02
 
 username = elastic
 password = admin02
+
+waber smit
