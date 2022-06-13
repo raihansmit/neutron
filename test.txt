@@ -3,3 +3,5 @@ push jenkins2
 push jenkins3
 push jenkins4
 push jenkins5
+push jenkins6
+push jenkins7
